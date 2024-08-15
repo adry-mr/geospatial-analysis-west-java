@@ -15,8 +15,8 @@ This project focuses on the geospatial analysis of West Java, with a specific em
 The project consists of the following main components:
 
 - **`data/`**: Contains the geospatial data files, including the shapefile (`pulau_jawa_kab`) and associated files needed for analysis.
-- **`notebook.ipynb`**: Jupyter notebook that performs the geospatial analysis, including data loading, processing, and visualization.
-- **`output_image.png`**: The final result of the analysis, highlighting Bogor City within the West Java region.
+- **`geospatial_analysis_west_java.ipynb`**: Jupyter notebook that performs the geospatial analysis, including data loading, processing, and visualization.
+- **`bogor_west_java.png`**: The final result of the analysis, highlighting Bogor City within the West Java region.
 
 ## Tools and Libraries
 
